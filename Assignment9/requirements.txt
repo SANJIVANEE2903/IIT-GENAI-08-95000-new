@@ -1,7 +1,0 @@
-streamlit
-pandas
-pandasql
-requests
-python-dotenv
-langchain
-langchain-openai
